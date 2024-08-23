@@ -1,7 +1,8 @@
 package kosta.exam;
 
-public class Test04 {
+public class Test09
+{
     public static void main(String[] args) {
-        System.out.println("hosoek");
+        System.out.println("hoseok");
     }
 }
